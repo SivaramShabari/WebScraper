@@ -19,4 +19,4 @@ Only read from DB :P
 ![Screenshot](Output/ss1.png)
 ![Screenshot](Output/ss2.png)
 ![Screenshot](Output/ss3.png)
-![Screenshot](Output/ss postman.png)
+![Screenshot]("Output/ss postman.png")
