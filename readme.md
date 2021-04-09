@@ -15,6 +15,8 @@ Contact me if you really wanna execute everything in this repo... LoL
 There is no CRUD operation here
 Only read from DB :P
 
-![alt text](http://https://github.com/SivaramShabari/WebScraper/blob/main/Output/ss1.png)
 
 ![Screenshot](Output/ss1.png)
+![Screenshot](Output/ss2.png)
+![Screenshot](Output/ss3.png)
+![Screenshot](Output/ss postman.png)
