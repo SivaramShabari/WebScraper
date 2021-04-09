@@ -17,3 +17,4 @@ Only read from DB :P
 
 ![alt text](http://https://github.com/SivaramShabari/WebScraper/blob/main/Output/ss1.png)
 
+![Screenshot](Output/ss1.png)
